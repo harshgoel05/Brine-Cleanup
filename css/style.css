@@ -106,7 +106,6 @@ img {
   -webkit-user-select: none;
   -ms-user-select: none;
   -webkit-user-drag: none;
-  user-drag: none;
 }
 .btn {
   font-family: montserrat, sans-serif;
