@@ -1,1 +1,6 @@
-"# Brine-Cleanup" 
+## BrineCleanup
+
+#### TechStack
+- HTML
+- CSS
+- Javascript
